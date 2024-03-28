@@ -10,47 +10,21 @@ In this project I used a PowerShell script that is responsible for parsing out W
 - <b>PowerShell</b> 
 - <b>ipgeolocation.io</b>
 
-<h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
 
-<h2>Program walk-through:</h2>
 
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+
+![Screenshot 2024-03-28 144120](https://github.com/ZackaryGleason/Microsoft-Sentinel-SIEM-Lab/assets/164268429/ee30bb9a-5a8d-4b7f-b015-273bf3975c9c)
+
+
+Here is the PowerShell script
+
+![Screenshot 2024-03-20 212916](https://github.com/ZackaryGleason/Microsoft-Sentinel-SIEM-Lab/assets/164268429/c8a8e8ff-22cc-4818-8804-b178238073b6)
+
+
+And this is the info extracted from PowerShell ran through an API and placed on a world map using Microsoft Sentinel
+
+![Screenshot 2024-03-28 143816](https://github.com/ZackaryGleason/Microsoft-Sentinel-SIEM-Lab/assets/164268429/aac67fe3-2ff6-4c32-836d-0f117a47bb28)
+
+
